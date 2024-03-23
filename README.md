@@ -1,3 +1,3 @@
 # Application Notes
 
-This Application develop use ReactJS
+This Application develop with ReactJS
