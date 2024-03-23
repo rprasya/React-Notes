@@ -1,0 +1,30 @@
+.notes {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.formStyle {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+input {
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: solid 1px white;
+}
+
+.resultData {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px gray;
+    border-radius: 5px;
+}
